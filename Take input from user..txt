@@ -1,0 +1,12 @@
+class Solution {
+    public void printNumber(Scanner sc) {
+       Scanner scanner = new Scanner(System.in);
+       int integrInput = scanner.nextInt(); 
+       System.out.print(integrInput);
+    }
+}
+
+fun printIt(){
+       val number = readLine()!!.toInt()
+    println(number)
+}
